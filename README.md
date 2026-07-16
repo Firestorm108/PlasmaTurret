@@ -2,7 +2,7 @@
 A user controlled turret that shoots out plasma arcs built for Open Sauce 2026 during the Outpost hackathon.
 Project by @ProgrammerTurtle (Parker) and @Firestorm108 (Sidd)
 
-This 300W machine is based upon an RP2040 brain. As it was designed to be interactive, it features an easy-to-use bespoke control system centered around a dual axis joystick and large red firing button. The joystick controls both the turret azimuth and elevation, aiming the sharp electrode at any given point along our target panel. When the user is ready, they may press the large red button to trigger the initiation of a plasma arc between the electrode and panel. 
+This 300W machine is based upon an RP2040 brain. As it was designed to be interactive, it features an easy-to-use bespoke control system centered around a dual axis joystick and large red firing button. The joystick controls both the turret azimuth and elevation, aiming the sharp electrode at any given point along our target panel. When the user is ready, they may press the large red button to trigger a plasma arc between the turret-mounted electrode and target panel. 
 
 
 
