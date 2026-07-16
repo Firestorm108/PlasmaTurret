@@ -12,3 +12,20 @@ Demo: https://youtu.be/QovAOOyAX7U?is=tuLSDvcPWSPZ5tYF
 <img width="3024" height="4032" alt="IMG_6017" src="https://github.com/user-attachments/assets/3d7fc286-310f-4531-bbca-eed2632493c1" />
 <img width="5712" height="4284" alt="IMG_6019" src="https://github.com/user-attachments/assets/7526ec01-fe9d-48c3-bd4b-f5c01577059e" />
 <img width="950" height="610" alt="IMG_6022" src="https://github.com/user-attachments/assets/1b141e72-d542-43f8-93b8-7890e845b044" />
+
+
+## Bill of Materials
+
+| Item                       | Price | Link                                                  |
+|----------------------------|-------|-------------------------------------------------------|
+| Raspberry Pi Pico          | $2    | https://www.aliexpress.us/item/3256806459772007.html? |
+| Adjustable Buck Regulator  | $4    | https://www.aliexpress.us/item/3256810213721988.html  |
+| Joystick Module            | $2    | https://www.aliexpress.us/item/3256809150872159.html  |
+| A4988 Drivers (2)          | $4    | https://www.aliexpress.us/item/3256809421459029.html  |
+| Laser Diode                | $3    | https://www.aliexpress.us/item/3256808415270828.html  |
+| NEMA 17 Stepper Motors (2) | $15   | https://www.aliexpress.us/item/3256806051494567.html  |
+| ZVS Driver                 | $6    | https://www.aliexpress.us/item/3256809321123298.html  |
+| Flyback Transformer        | $6    | https://www.aliexpress.us/item/3256806032577819.html? |
+|                            |       |                                                       |
+| Total                      | $42   |                                                       |
+
